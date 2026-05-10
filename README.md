@@ -34,3 +34,4 @@
 Day 12: try/exceptでエラーハンドリングを習得。
 Day 13: requestsでAPI入門。為替レートを自動取得した。
 Day 14: claude APIをpythonから呼び出した。
+Day 15: pandas+クラス+Claude APIを統合した分析ツールを完成。
